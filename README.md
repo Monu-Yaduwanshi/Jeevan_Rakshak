@@ -30,72 +30,40 @@
 </p>
 
 
-# 📸 App Screenshots  
-*(Replace links with your real images)*  
+# 📸 App Screenshots
 
 ---
 
-## 🆘 Login
+## 🔐 Authentication & Role Selection
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8a6aa8fa-b079-4513-b92a-1ef4c204a9fa" width="250"/>
-  <img src="https://github.com/user-attachments/assets/891e05f7-6673-4be5-87f4-e88b24494e89" width="250"/>
-  <img src="https://github.com/user-attachments/assets/975e7177-e98d-4fce-991b-c4a38fc638bb" width="250"/>
+  <img src="https://github.com/user-attachments/assets/58025272-2e78-4da0-a964-861be6ef71ec" width="250"/>
+  <img src="https://github.com/user-attachments/assets/1cdef606-0659-4ff6-b46b-eac98552249b" width="250"/>
+  <img src="https://github.com/user-attachments/assets/830fb834-d96e-4283-9705-b3607fc47f61" width="250"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/873fdd2e-a62a-42de-98cf-4018ef557114" width="250"/>
-  <img src="https://github.com/user-attachments/assets/a148c5d9-a7dc-4757-a423-cd39702b4929" width="250"/>
-  <img src="https://github.com/user-attachments/assets/0845fd26-08ba-4e57-b9d6-014ac4f4c490" width="250"/>
+  <img src="https://github.com/user-attachments/assets/554e670a-ae42-4c3c-b615-1fd3110a1ac0" width="250"/>
 </p>
 
 ---
 
-## 🚑 SOS
+## 🏠 Home Dashboard & Core Features
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/94771c61-fb1b-45ca-827e-71c33ad2d007" width="250"/>
-  <img src="https://github.com/user-attachments/assets/00be46f4-dfa3-43d8-ae5b-dc6989594c03" width="250"/>
-  <img src="https://github.com/user-attachments/assets/9544aa71-7862-41c0-9997-1864d79391dc" width="250"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/36ccce2e-6984-4aab-9fb6-7c3bd9a4bf8e" width="250"/>
+  <img src="https://github.com/user-attachments/assets/b5debf41-422a-4f79-9c12-759d6923db50" width="250"/>
+  <img src="https://github.com/user-attachments/assets/58363cbd-a761-453e-b94d-05228ec5ccef" width="250"/>
+  <img src="https://github.com/user-attachments/assets/1f311f6c-dc81-418a-a8cf-4d155f553924" width="250"/>
 </p>
 
 ---
 
-## 💊 Map
+## 🚑 Emergency & Ambulance Module
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/69413935-2bb1-40e0-91ab-acf7fba7e644" width="250"/>
-  <img src="https://github.com/user-attachments/assets/4c8e3312-db5e-4801-b0ea-ce55da0e473a" width="250"/>
-  <img src="https://github.com/user-attachments/assets/2049e260-1ecc-4a34-9816-22dcf6457538" width="250"/>
-</p>
-
----
-
-## 👤 Login
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/949be9d1-0e35-4d90-8084-5493f85e1dc3" width="250"/>
-  <img src="https://github.com/user-attachments/assets/a90811b7-4ce1-4733-b6b0-ddc0d3f8ad24" width="250"/>
-  <img src="https://github.com/user-attachments/assets/f3ca8847-76bc-43fe-a063-d4be61eba79e" width="250"/>
-</p>
-
----
-
-## 📊 Dashboard & Other Screens
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7f7c19bc-b659-425b-9270-12a692464bdb" width="250"/>
-  <img src="https://github.com/user-attachments/assets/1fd7cc32-b820-4934-ac55-5754aa303d38" width="250"/>
-  <img src="https://github.com/user-attachments/assets/ec00688c-65ca-4642-8c0e-32a74b4a7ae0" width="250"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/39695219-4b67-46b6-ab3a-fe4d4fa24ff5" width="250"/>
-  <img src="https://github.com/user-attachments/assets/5bcfdfc0-f774-4f74-b006-ca0fa7bd710d" width="250"/>
+  <img src="https://github.com/user-attachments/assets/723ca4d5-2305-4a39-bd8f-a0e526df5a8e" width="250"/>
+  <img src="https://github.com/user-attachments/assets/22f15687-3cc0-4778-be68-22ccb56e4689" width="250"/>
+  <img src="https://github.com/user-attachments/assets/8abee95c-b089-4cf0-a097-dafa967bc1c5" width="250"/>
 </p>
 
 ---
@@ -103,6 +71,10 @@
 <p align="center">
   ❤️ Built with Kotlin, Jetpack Compose & Firebase
 </p>
+
+
+
+
 
 
 
