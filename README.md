@@ -2,7 +2,7 @@
 # 📱 Jeevan_Rakshak – One-Tap Emergency Assistance & Generic Medicine Platform
 
 <p align="center">
-  <img src="https://via.placeholder.com/200x200/D22030/FFFFFF?text=JR" width="200" height="200" alt="Jeevan Rakshak Logo"/>
+  <img width="500" height="500" alt="logoStatic" src="https://github.com/user-attachments/assets/09ba69b3-c5c5-4922-8465-bc9b4fc567ad" alt="Jeevan Rakshak Logo"/>
 </p>
 
 <p align="center">
@@ -300,7 +300,8 @@ All within one unified Android platform.
 
 It is a scalable, real-world, and socially impactful solution tailored for India.
 
----
+---<img width="500" height="500" alt="logoStatic" src="https://github.com/user-attachments/assets/09ba69b3-c5c5-4922-8465-bc9b4fc567ad" />
+
 
 # 👨‍💻 Team
 
