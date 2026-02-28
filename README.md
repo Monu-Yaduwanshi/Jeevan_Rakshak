@@ -1,9 +1,7 @@
 # Jeevan_Rakshak
 # 📱 Jeevan_Rakshak – One-Tap Emergency Assistance & Generic Medicine Platform
 
-<p align="center">
-  <img width="500" height="500" alt="logoStatic" src="https://github.com/user-attachments/assets/09ba69b3-c5c5-4922-8465-bc9b4fc567ad" alt="Jeevan Rakshak Logo"/>
-</p>
+
 
 <p align="center">
   <b>Your Life Saver – Emergency SOS & Affordable Healthcare Platform for India 🇮🇳</b>
@@ -29,6 +27,9 @@
   <a href="#-team">Team</a>
 </p>
 
+<p align="center">
+  <img width="500" height="500" alt="logoStatic" src="https://github.com/user-attachments/assets/09ba69b3-c5c5-4922-8465-bc9b4fc567ad" alt="Jeevan Rakshak Logo"/>
+</p>
 
 # 📸 App Screenshots
 
