@@ -1,4 +1,3 @@
-# Jeevan_Rakshak
 # 📱 Jeevan_Rakshak – One-Tap Emergency Assistance & Generic Medicine Platform
 
 
