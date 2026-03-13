@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "185889858451",
+    "project_number": "1859858451",
     "project_id": "jeevanrakshak-15ccf",
-    "storage_bucket": "jeevanrakshak-15ccf.firebasestorage.app"
+    "storage_bucket": "jeevanrakshak-1cf.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:185889858451:android:c03577b545e2ca2a71fe66",
+        "mobilesdk_app_id": "1:1858898451:android:c0357745e2ca2a71fe66",
         "android_client_info": {
           "package_name": "com.example.jeevan_rakshak"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyB-GFsFNE1GvaMrBViTvYf9dtN3e6UuP0Q"
+          "current_key": "AIzaSyB-GFsFNE1GBViTvYf9dtN3e6UuP0Q"
         }
       ],
       "services": {
